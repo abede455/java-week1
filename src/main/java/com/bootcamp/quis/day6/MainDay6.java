@@ -11,6 +11,7 @@ public class MainDay6 {
 
         view.init();
         view.showListVehicle();
+
         view.summary();
     }
 }
